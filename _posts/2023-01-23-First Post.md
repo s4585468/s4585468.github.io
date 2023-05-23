@@ -1,4 +1,4 @@
-#First Post
+# **First Post**
 
 Day 1: I decided until I get ideas on what to make other posts about Ill simply just document my process with q2 and q3 of the assignment like any other blog. 
 Are you even a student if starting an assignment didnt include procrastinating and general web browsing? Today my procrastination browsing included asking ChatGPT to write Haikus about image processing. I will begin by reveiwing them. 
