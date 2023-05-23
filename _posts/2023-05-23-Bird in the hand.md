@@ -11,4 +11,16 @@ My undestanding of the 00 example in fastai course is its a tutorial on how to c
 1. Ive never used DuckDuckGo before for anything its such a powerful tool!
 2. I had no idea how high-level FastAi was before beginning I was expecting to have hundreds of lines of code to achieve a minor task. 
 3. The tutorial was really good on teaching us how to prepare the data for being used for the task. Creating directories, storing images for training. Also the section about cleaning corrupted files was very helpful.
-4. 
+4. FastAI DataLoader and DataBlock was also discussed in this example.
+5. ResNet18 and pre-trained models deomonstrated the power and how useful/effecient using these models are. Its trained to classify birds and forests.
+6. '''python fine_tune()''' was used in the 00 example to check how accurate the method was. 
+
+# **Imrpovements**
+This example was great to wrap my head around fast ai below is a list of things I can use the learning from this example and build upon. 
+
+1. More categories of animals see if it'll work with specific bird species. 
+2. Improve the data cleaning 
+3. Use different models as ResNet18 is a pretrained model could try using ResNet34, ResNet50 or even a more recent architecutre such as EfficientNet. 
+4. User Interaction: Create a mode where user can upload their own images.
+5. Monitoring and updating the model.
+
