@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+description: This blog was created as part of my ELEC4630 Assignment 3. This will be used primarily to document my lessons learnt, ideas and discuss my thoughts sorrounding fast ai course the elec4630 course and image processing. I hope whoever is reading this will find this useful. I cannot speak on whether Id use this forum in the future for this type of subject matter. However, I have decided Ill use blog posting to track my journey in Power engineering in the future.
 github_username: jph00
 
 # Email and twitter are optional:
