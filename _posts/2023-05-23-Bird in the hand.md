@@ -1,7 +1,7 @@
 # **Bird in the hand bird in the screen. Is it a bird?**
 # **00-is-it-a-bird-creating-a-model-from-your-own-data.ipynb**
 
-After much trouble I managed to run successfully run the is it a bird example on the fastai course. I beilieve one of the error is duckduckgo is scraping an image which has a file extension the python script cannot handle then again what do I know.
+After much trouble I managed to successfully run the is it a bird example on the fastai course. I beilieve one of the error is duckduckgo is scraping an image which has a file extension the python script cannot handle then again what do I know.
 
 I managed to successfully carry on as the jupyter notebook allows for me to pick up from the next line of code and even with the errors the code manages to snag enough pictures of birds. 
 
