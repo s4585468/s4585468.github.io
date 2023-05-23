@@ -24,9 +24,4 @@ This example was great to wrap my head around fast ai below is a list of things 
 4. User Interaction: Create a mode where user can upload their own images.
 5. Monitoring and updating the model.
 
-<div class="Jokerman">
-
-This is some text in Comic Sans.
-
-</div>
-
+![ISSABIRD](/images/issa bird.jpg)
