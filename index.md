@@ -4,5 +4,6 @@ This blog was created as part of my ELEC4630 Assignment 3. This will be used pri
 
 Hope you enjoy!
 
-![AI](/images/AI.jpg)
+![AI](/images/AI.jpg){:width="60%"}
+
 
